@@ -1,7 +1,8 @@
 # VagasDevs
 Espaço para a divulgação de vagas para devs via issues do Github.
 
-### Vagas disponíveis em 
+### Vagas disponíveis em:
+https://github.com/FranSTechRecruiter/VagasDevs/issues
 
 # Atenção Devs ⚠️
 
